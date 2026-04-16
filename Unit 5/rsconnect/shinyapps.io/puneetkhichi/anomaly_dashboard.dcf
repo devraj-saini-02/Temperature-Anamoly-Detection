@@ -1,0 +1,12 @@
+name: anomaly_dashboard
+title: anomaly_dashboard
+username: puneetkhichi
+account: puneetkhichi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17132692
+bundleId: 11850626
+url: https://puneetkhichi.shinyapps.io/anomaly_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
